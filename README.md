@@ -1,0 +1,2 @@
+# GOODS
+share greet goods
